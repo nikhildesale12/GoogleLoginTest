@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101262709626",
+    "project_id": "firebase-signin3008"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101262709626:android:a79d67cc9e2c4be9",
+        "android_client_info": {
+          "package_name": "com.ibin.googlelogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101262709626-r3bakrff2i07lgsfe8io50o5nbpelhlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibin.googlelogintest",
+            "certificate_hash": "3afdd2bdea9c77841af4f058b4c9af21d48321c6"
+          }
+        },
+        {
+          "client_id": "101262709626-88k325mojrm2ndpnscbfm98d802nl9sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgHKW9Zl96AFX1NJnYidcacojnd0fz0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
